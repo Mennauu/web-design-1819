@@ -171,7 +171,7 @@ export default {
     const showMessage = async time => {
       const timestampElements = await getTimestampElements();
 
-      for (let timestamp of timestampElements) {
+      for await (let timestamp of timestampElements) {
         const timeFromElement = timestamp.innerText;
         const messageElement = timestamp.parentNode.parentNode;
 
