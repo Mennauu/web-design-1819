@@ -113,7 +113,7 @@ export default {
         {
           image: "elon-musk.jpg",
           name: "Elon Musk",
-          message: "Your welcome.",
+          message: "You're welcome.",
           position: "right",
           timestamp: "00:00:09"
         },
@@ -141,7 +141,7 @@ export default {
         {
           image: "elon-musk.jpg",
           name: "Elon Musk",
-          message: "Your welcome. That’s coming later.",
+          message: "You're welcome. That’s coming later.",
           position: "right",
           timestamp: "00:00:18"
         },

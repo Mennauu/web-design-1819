@@ -22,7 +22,10 @@ export default {
   background-color: #ece5dd;
   border-radius: 5px;
   position: relative;
-  // border-left: darken(#ece5dd, 5%) 4.6em solid;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
 }
 
 @media (max-width: 500px) {
