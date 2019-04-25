@@ -6,6 +6,6 @@
 
 <style scoped>
 header {
-  padding: 2em 0;
+  padding: 2em 0.6em;
 }
 </style>

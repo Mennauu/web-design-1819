@@ -13,11 +13,8 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  background-color: #f1f1f1;
-}
-
-body {
-  padding: 0 1em;
+  background-color: #fff;
+  scroll-behavior: smooth;
 }
 
 *,
@@ -38,6 +35,6 @@ p {
 }
 
 small {
-  font-size: 70%;
+  font-size: 60%;
 }
 </style>

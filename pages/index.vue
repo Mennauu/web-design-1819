@@ -1,34 +1,30 @@
 <template>
   <div class="container">
     <headerTop/>
-    <div class="container__flex">
-      <chatbox/>
-      <chatOptions/>
-    </div>
+    <chatbox/>
   </div>
 </template>
 
 <script>
 import headerTop from "~/components/header-top.vue";
-import chatbox from "~/components/chatbox.vue";
-import chatOptions from "~/components/chat-options.vue";
+import chatbox from "~/components/chat-box.vue";
 
 export default {
   components: {
     headerTop,
-    chatbox,
-    chatOptions
+    chatbox
   }
 };
 </script>
 
 <style>
 .container {
-  max-width: 980px;
+  max-width: 1100px;
   margin: auto;
 }
 
 .container__flex {
   display: flex;
+  position: relative;
 }
 </style>
