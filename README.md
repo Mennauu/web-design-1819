@@ -17,7 +17,7 @@
 
 <br>
 
-![preview](readme-assets/v4-big.png)
+![preview](readme-assets/V4-big.png)
 
 <br>
 
@@ -153,7 +153,7 @@ I decided to do some quick testing of this version by showing it to students. Th
 
 **Version 2**
 
-![preview](readme-assets/v2-big.png)
+![preview](readme-assets/V2-big.png)
 
 ### Second meeting
 The second meeting was short. I told her what I created and then showed it to her. During this time I was carefully looking at her facial expressions, because they say a lot. I could tell she liked it, but there was no WOW! I thought: "this is fine, the core is there. The next time I'll try to get the wow-factor".
@@ -177,7 +177,7 @@ After the second meeting I clearly wanted to spice things up. Tech-wise the prod
 
 **Version 3**
 
-![preview](readme-assets/v3-big.png)
+![preview](readme-assets/V3-big.png)
 
 
 ### Third meeting
@@ -215,7 +215,7 @@ Check the end-results in the next chapter!
 
 ![preview](readme-assets/start-big.png)
 
-![preview](readme-assets/v4-big.png)
+![preview](readme-assets/V4-big.png)
 
 ## Exclusive Design Principles
 
