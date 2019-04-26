@@ -225,6 +225,7 @@ Check the end-results in the next chapter!
 
 ![preview](readme-assets/V4-big.png)
 
+<!--
 ## Exclusive Design Principles
 
 ### Study situation
@@ -248,6 +249,7 @@ Deaf individuals:
 ### Add nonense
 
 ![preview](readme-assets/add-nonsense.png)
+-->
 
 <!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
 ## Wishlist
